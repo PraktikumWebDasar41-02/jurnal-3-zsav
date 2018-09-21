@@ -1,0 +1,19 @@
+Kerjakan!
+
+Buatlah form pendaftaran dimana pengguna mengunggah foto, dan jugda dapat mengupdate foto yang lama.
+Gunakan database.
+
+Isi form :
+- Nama
+- NIM
+- Gambar (Upload)
+- Submit (Button)
+
+OUTPUT :
+- Nama (Value = nama)
+- NIM (Value = nim)
+- Gambar (Update)
+- Preview (Gambar sebelumnya yang sudah di upload)
+- Submit (Button)
+
+DEADLINE JAM 09.00
